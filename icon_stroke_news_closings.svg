@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_stroke_weather_weatheralerts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_stroke_news_closingsalerts">
+            <g id="Stroke-4038-+-Fill-4039-+-Stroke-4040" transform="translate(1.000000, 2.000000)">
+                <path d="M11.5,15.8063 L11.5,8.1543" id="Stroke-4038" stroke="#231F1F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.5,18.1975 C10.971,18.1975 10.544,18.6265 10.544,19.1545 C10.544,19.6825 10.971,20.1105 11.5,20.1105 C12.028,20.1105 12.456,19.6825 12.456,19.1545 C12.456,18.6265 12.028,18.1975 11.5,18.1975" id="Fill-4039" fill="#231F1F"></path>
+                <polygon id="Stroke-4040" stroke="#231F1F" stroke-linecap="round" stroke-linejoin="round" points="22.5 22.5019 0.5 22.5019 11.5 0.5019"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
