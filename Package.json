@@ -1,0 +1,63 @@
+{
+  "name": "cml",
+  "version": "2.6.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franklyinc/3rdparty"
+  },
+  "scripts": {
+    "build": "node buildforproduction",
+    "test": "node test | tap-spec"
+  },
+  "description": "modules.franklyinc.com and modules-[envName].franklyinc.com endpoint for 3rdparty component webhook",
+  "dependencies": {
+    "babel-core": "6.25",
+    "babel-eslint": "8.0",
+    "babel-plugin-transform-decorators-legacy": "1.3.4",
+    "babel-polyfill": "6.23",
+    "babel-preset-es2015": "6.24",
+    "babel-preset-react": "6.24",
+    "babel-preset-stage-0": "6.24",
+    "body-parser": "1.17",
+    "browserify": "14",
+    "datey": "1.0.1",
+    "debug": "3",
+    "es6ify": "1.6",
+    "eslint": "4.11",
+    "eslint-config-standard": "10.2",
+    "eslint-config-standard-react": "5.0",
+    "eslint-plugin-import": "2.8",
+    "eslint-plugin-node": "5.2",
+    "eslint-plugin-promise": "3.6",
+    "eslint-plugin-react": "7.4",
+    "eslint-plugin-standard": "3.0",
+    "express": "4",
+    "get-uri": "2.0.1",
+    "ip": "1",
+    "js-cookie": "",
+    "main-loop": "3.4",
+    "osenv": "0.1.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "redis": "2.7",
+    "request": "2.81.0",
+    "sha.js": "2.4.8",
+    "standard": "10.0",
+    "stylus": "0.54",
+    "suuid": "0.0.1",
+    "virtual-dom": "2.1",
+    "writa": "1",
+    "ws": "3",
+    "xhr": "2.2"
+  },
+  "devDependencies": {
+    "tape": "~3.5.0",
+    "tap-spec": "~2.2.1"
+  },
+  "author": {
+    "name": "Bent Cardan",
+    "email": "bent@franklyinc.com",
+    "url": "http://req.link"
+  },
+  "license": "UNLICENSED"
+}
